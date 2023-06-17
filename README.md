@@ -1,4 +1,4 @@
-<h1 align="left">hi, I'm Arushi Rai</h1>
+<h1 align="left">Hi, I'm Arushi Rai</h1>
 <h3 align="left">Student, and full-time Cybersecurity Geek</h3>
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=asr-24&label=Profile%20views&color=0e75b6&style=flat" alt="asr-24" /> </p-->
