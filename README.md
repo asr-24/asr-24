@@ -5,7 +5,7 @@
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asr-24" alt="asr-24" /></a> </p-->
 
-- 🔭 I’m currently working on [Scam Shield](https://github.com/asr-24/ScamShield)
+- 🔭 I’m currently working on [Sentinel Share](https://github.com/asr-24/SentinelShare)
 
 - 🌱 I’m currently learning **SOC Analysis**
 
